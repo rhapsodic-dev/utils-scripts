@@ -1,7 +1,23 @@
 {
-  "name": "@rhapsodic-dev/utils-scripts",
+  "name": "@rhapsodic/utils-scripts",
   "version": "1.0.0",
-  "author": "rhapsodic-dev",
+  "author": {
+    "name": "rhapsodic.dev",
+    "email": "rhapsodic.dev@gmail.com",
+    "url": "https://github.com/rhapsodic-dev"
+  },
+  "contributors": [
+    {
+      "name": "Svyatoslav Fyodorov",
+      "email": "intelrug@gmail.com",
+      "url": "https://github.com/intelrug"
+    },
+    {
+      "name": "TrenLok",
+      "email": "trenlok.dev@gmail.com",
+      "url": "https://github.com/trenlok"
+    }
+  ],
   "description": "utils-scripts",
   "type": "module",
   "license": "MIT",
